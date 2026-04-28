@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+title: GPT-NL Data Curation Modules
+message: >-
+  If you use this software, please cite it using the
+  metadata below.
+type: software
+authors:
+  - family-names: Oliveira Filho
+    given-names: Julio A.
+    name-particle: de
+    affiliation: TNO
+    orcid: 'https://orcid.org/0000-0001-5152-4902'
+  - family-names: Roncea
+    given-names: Andrei
+    affiliation: TNO
+  - family-names: Weyland
+    given-names: Louis
+    affiliation: TNO
+    orcid: 'https://orcid.org/0000-0002-0085-4239'
+  - family-names: El Assal
+    given-names: Karim
+    orcid: 'https://orcid.org/0000-0003-1469-2389'
+  - family-names: Helwerda
+    given-names: Leon
+    affiliation: TNO
+    orcid: 'https://orcid.org/0000-0002-4299-466X'
+  - family-names: Mensio
+    given-names: Martino
+    affiliation: TNO
+    orcid: 'https://orcid.org/0000-0002-9875-6396'
+  - given-names: Caspar
+    family-names: Meijer
+    affiliation: TNO
+    orcid: 'https://orcid.org/0009-0002-3966-6232'
+repository-code: 'https://github.com/GPT-NL/data-curation-modules'
+url: 'https://github.com/GPT-NL/data-curation-modules'
+abstract: >
+  A collection of data curation modules for large-scale
+  language model training, including normalization,
+  filtering, PII removal, and deduplication.
+keywords:
+  - GPT-NL
+  - data curation
+  - natural language processing
+  - large language models
+  - heuristic filtering
+  - personal identifying information masking
+  - toxic language detection
+  - normalization
+license: Apache-2.0
